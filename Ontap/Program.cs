@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ontap
 {
+// Đây là mục tui vừa code nè
+
     class Program
     {
         static void Main(string[] args)
@@ -76,7 +78,7 @@ namespace Ontap
             }
             Console.ReadLine();
             
-
+asdasdsad
  }
         }
     }

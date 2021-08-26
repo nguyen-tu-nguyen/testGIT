@@ -16,6 +16,20 @@ namespace Ontap
             set { maKH = value; }
         }
 
-
+	public string MaKH
+        {
+            get { return maKH; }
+            set { maKH = value; }
+        }
+public string MaKH
+        {
+            get { return maKH; }
+            set { maKH = value; }
+        }
+public string MaKH
+        {
+            get { return maKH; }
+            set { maKH = value; }
+        }
     }
 }
