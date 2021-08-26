@@ -1,0 +1,6 @@
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\bin\Debug\Ontap.exe.config
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\bin\Debug\Ontap.exe
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\bin\Debug\Ontap.pdb
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\obj\Debug\Ontap.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\obj\Debug\Ontap.exe
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Ontap\obj\Debug\Ontap.pdb
