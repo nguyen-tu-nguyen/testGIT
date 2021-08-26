@@ -1,0 +1,6 @@
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\bin\Debug\Tuan01.exe.config
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\bin\Debug\Tuan01.exe
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\bin\Debug\Tuan01.pdb
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\obj\Debug\Tuan01.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\obj\Debug\Tuan01.exe
+C:\Users\Nguyen Nguyen\Desktop\Ontap\Tuan01\obj\Debug\Tuan01.pdb
